@@ -1,0 +1,4 @@
+github.com/giriadhittana01/logger v1.1.0 h1:VJqdFIT7fb7OXKP/aUSNgefGraEsxh+Uez8dvmkHsDY=
+github.com/giriadhittana01/logger v1.1.0/go.mod h1:zy+OBGFsw+WZCcn9FL8EIRzXkhfi8bmHKCauwfCGUVA=
+github.com/go-chi/chi/v5 v5.0.7 h1:rDTPXLDHGATaeHvVlLcR4Qe0zftYethFucbjVQ1PxU8=
+github.com/go-chi/chi/v5 v5.0.7/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
